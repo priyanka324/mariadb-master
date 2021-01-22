@@ -1,7 +1,7 @@
 app:
     name: mariadb Master
     code: mariadbmaster
-    notify: priyankagadipally123@cloudbourne.co
+    notify: priyankagadipally123@gmail.com
 
 build:
     version: 10.4
